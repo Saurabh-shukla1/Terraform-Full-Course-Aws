@@ -1,11 +1,11 @@
-# Day 01 - Quick Tasks
+# Day 06 - Quick Tasks
 
 ## What to Do
 
-- [X] Watch the Day 01 video and take notes
+- [X] Watch the Day 05 video and take notes
 - [X] Write a short blog (500-800 words) about what you learned
-    - Include your own diagrams and code examples
-    - Embed the video
+  - Include your own diagrams and code examples
+  - Embed the video
 - [X] Share your blog on LinkedIn and Twitter/X with **#30daysofawsterraform**
 - [X] Tag me (Piyush Sachdeva)
 - [X] Submit your work (see `submission.md` for how)
