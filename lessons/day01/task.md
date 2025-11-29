@@ -2,7 +2,10 @@
 
 ## What to Do
 
+<<<<<<< HEAD
 - [X] Watch the Day 01 video and take notes
+=======
+>>>>>>> 7f61d4fccb0d107cf0831b8785b170a968998482
 - [X] Write a short blog (500-800 words) about what you learned
     - Include your own diagrams and code examples
     - Embed the video
